@@ -1,0 +1,5 @@
+[basic]
+# 是否启用插件
+enable = false
+# 推送地址
+base_uri = ""

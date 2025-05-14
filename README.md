@@ -12,3 +12,5 @@ base_uri = ""
 push_list =[
     "handle_text" #转发消息列表
 ]
+```
+发送数据为 bot 抓取的 message:Dict

@@ -8,3 +8,7 @@ config.toml
 enable = false
 # 推送地址
 base_uri = ""
+
+push_list =[
+    "handle_text" #转发消息列表
+]
